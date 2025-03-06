@@ -1,0 +1,60 @@
+<html>
+<head>
+<title> meamfy </title>
+</head>
+<link rel="shortcut icon" href="MUSICONA.ico" />
+
+<!--logo pagina entre el head y body -->
+<a href="https://www.youtube.com/watch?v=sS8ELauHmGM">
+<center><img src="imagenes/encabezadoT.png" alt="aqui deberia de ir el encabezado"width="1200" height="600"></center>
+</a>
+
+<Body>
+me gusta la musica
+<h1> tipo 1 </h1>
+<h2> tipo 2 </h2>
+<h3> tipo 3 </h3>
+<h4> tipo 4 </h4>
+<h5> tipo 5 </h5>
+<h6> tipo 6 </h6>
+
+<Body bgcolor="6a1ec0"  background="imagenes/fondo3.jpg">
+
+<font size=90><p style="color:ffffff";> Red paragraph text</p></font>
+
+<font size=20 Color="ffffff">
+<p style="text-aling: center">
+en esta pagina te vamos a recomendar varios tipos de canciones que estan bien pros
+</p>
+</font>
+
+
+<font size=9 color="ffffff">
+
+<p>Maximo Emmanuel</p><br>
+<b>Maximo Emmanuel</b><br>
+<strong>Maximo Emmanuel</strong><br>
+<i>Maximo Emmanuel</i><br>
+<em>Maximo Emmanuel</em><br>
+<u>Maximo Emmanuel</u><br>
+<small>Maximo Emmanuel</small><br>
+<big>Maximo Emmanuel</big><br>
+<sub>Maximo Emmanuel</sub><br>
+<sup>Maximo Emmanuel</sup><br>
+<strike>Maximo Emmanuel</strike><br>
+<s>Maximo Emmanuel</s><br>
+<del>Maximo Emmanuel</del><br>
+
+</font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5NIA8Ef5C-Q?si=8nkarjGYVZOhHCAQ" title="YouTube video player" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<center><audio src="musica/Houdini.mp3" controls></audio></center>
+
+<center><img src="imagenes/IMG6.png" alt="aqui deberia de ir el fondo"width="800" height="900"></center>
+
+</body>
+
+</html>
